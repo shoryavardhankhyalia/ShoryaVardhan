@@ -1,0 +1,300 @@
+body
+{
+
+    color: white;
+    
+    text-align: center;
+
+    background:linear-gradient(#0703ff 0%,#ff0303 100%);
+
+}
+
+.link:hover 
+
+{
+
+    font-size: 25px;
+
+    text-decoration:underline;
+
+}
+h1
+
+{
+text-align: center;
+
+font-weight: 900;
+
+color: white;
+
+font-family: 'Creepster', cursive;
+
+font-style: italic;
+
+}
+
+.line
+
+{
+
+    height: 6px;
+
+    background-color:aquamarine;
+
+    width: 1300px;
+
+    margin: 8px auto;
+
+}
+
+h3
+
+{
+
+    font-family:unset;
+
+    text-align:center;
+
+    color: rgb(255, 255, 255);
+
+}
+
+#im1
+
+{
+
+    width: 6cm;
+
+    border-radius:30%;
+
+    float:center;
+
+    border-color: aquamarine;
+
+    height:8cm;
+
+}
+
+h4
+
+{
+
+    text-align:left;
+
+    color: rgb(255, 255, 255);
+
+}
+
+h2
+
+{
+
+  text-align:left;
+
+  color: rgb(255, 255, 255);
+
+}
+
+#im3
+
+{
+
+    width: 7cm;
+
+    border-radius: 10%;
+
+    height:10cm;
+
+}
+
+#im4
+
+{
+
+    width: 7cm;
+
+    border-radius:10%;
+
+    height: 10cm;
+
+}
+
+#im5
+
+{
+
+    width: 7cm;
+
+    border-radius: 10%;
+
+    height: 10cm;
+
+}
+
+#im6
+
+{
+
+    width: 6cm;
+
+    border-radius: 7%;
+
+    height: 10cm;
+
+}
+
+#im7
+
+{
+
+    width: 6cm;
+
+    border-radius: 7%;
+
+    height: 10cm;
+
+}
+
+#im8
+
+{
+
+    width: 11cm;
+
+    border-radius: 7%;
+
+    height: 8cm;
+
+}
+
+#Menu
+
+{
+
+    background:linear-gradient(#ff0303 0%,#fbff03 100%);
+
+}
+.menu
+{
+    list-style: none;
+
+    position: fixed;
+
+    cursor: pointer;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+    
+    background:linear-gradient(#03ff2d 0%,#00f7ff 100%);
+
+    z-index:10;
+
+}
+
+#Photo
+
+{
+
+    background:linear-gradient(#fffb00 0%,#03ff3a 100%);
+
+}
+
+#Certifications
+
+{
+
+    background:linear-gradient(#03eeff 0%,#0307ff 100%);
+
+}
+
+#Apps
+
+{
+
+    background:linear-gradient(#0314ff 0%,#ff03dd 100%);
+
+}
+
+#contact
+
+{
+
+    background:linear-gradient(#03ff18 0%,#d503ff 100%);
+
+}
+
+li
+
+{
+
+    float: right;
+
+}
+
+li a 
+
+{
+
+    display: block;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    text-decoration: none;
+
+}
+
+li 
+
+{
+
+    border-right: 1px solid #bbb;
+
+}
+  
+ul 
+
+{
+
+    position: fixed;
+
+    top: 0;
+
+    width: 100%;
+
+}
+  
+section
+
+{
+
+   background: #4e54c8;
+
+  background: -webkit-linear-gradient(to right, #8f94fb, #4e54c8);
+
+  background: linear-gradient(to right, #8f94fb, #4e54c8);
+
+}
+
+h6
+
+{
+
+    font-size:x-large;
+    
+}
+
+p
+
+{
+
+     color: #00e1ff;
+
+}
+
